@@ -1,4 +1,4 @@
-# crypto-exchange-script
+# cryptocurrency-exchange-script
 
 A cryptocurrency exchange script is a ready-made software solution that allows businesses to launch their own cryptocurrency exchange platform quickly and cost-effectively. It includes all of the features and functions required to run an exchange, such as trading, buying, selling, order matching, and so on.
 
